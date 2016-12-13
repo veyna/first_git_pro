@@ -5,3 +5,4 @@ this is first add new line.
 
 today is 12/13/2016
 
+Git is different from svn.
